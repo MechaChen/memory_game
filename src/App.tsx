@@ -4,6 +4,7 @@ import { BeatLoader } from 'react-spinners';
 
 import { Counter } from './features/counter/Counter';
 
+var a = 'a';
 
 function App() {
   return (
