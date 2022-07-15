@@ -29,6 +29,18 @@
 
 &nbsp;
 
+## Tech Stack
+<details>
+  <summary>Chakra UI</summary>
+
+  ### Reason to use
+  1. I don't want to type every CSS for component, it's boring.
+  2. I think the name "Chakra" is super cool, and I'm also a big fan of Naruto XD
+</details>
+
+
+&nbsp;
+
 ## Tech wanted to try
 <details>
 
@@ -38,4 +50,5 @@
   - [ ] Clean Code / Design Patterns
   - [ ] React 18
   - [ ] Auto audio play
+  - [ ] Chakra UI
 </details>
