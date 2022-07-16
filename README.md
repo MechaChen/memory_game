@@ -1,8 +1,9 @@
 # Design Doc
 
 ## Add Card Component
-- [ ] show image
+- [x] show image
 - [ ] able to be flipped when being clicked
+- [ ] able to keep being flipped
 - [ ] able to keep being flipped
 
 
@@ -52,3 +53,8 @@
   - [ ] Auto audio play
   - [ ] Chakra UI
 </details>
+
+
+### Reference
+
+- https://codesandbox.io/s/oj64qwwqrq?file=/src/Card.js
